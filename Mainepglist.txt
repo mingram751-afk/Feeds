@@ -1,0 +1,7 @@
+1.https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz
+2.https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz
+3.https://raw.githubusercontent.com/sasagr/aljazeera-epg/main/aljazeera.xml
+4.https://epg.pw/api/epg.xml?channel_id=465164
+5.https://epg.pw/api/epg.xml?channel_id=465165
+6.https://epg.pw/api/epg.xml?channel_id=465179
+7.https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
